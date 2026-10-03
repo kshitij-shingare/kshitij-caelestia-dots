@@ -1,0 +1,27 @@
+{
+  "wallpaperEnabled": true,
+  "enabled": true,
+  "desktopClock": {
+    "enabled": true,
+    "scale": 1.0,
+    "position": "bottom-right",
+    "invertColors": false,
+    "background": {
+      "enabled": false,
+      "opacity": 0.7,
+      "blur": true
+    },
+    "shadow": {
+      "enabled": true,
+      "opacity": 0.7,
+      "blur": 0.4
+    }
+  },
+  "visualiser": {
+    "enabled": true,
+    "autoHide": true,
+    "blur": true,
+    "rounding": 1,
+    "spacing": 1
+  }
+}

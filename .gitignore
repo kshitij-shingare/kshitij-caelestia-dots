@@ -1,0 +1,8 @@
+*.backup
+*.backup-*
+*.bak
+.DS_Store
+Thumbs.db
+.env
+*.log
+caelestia-hyprland-setup/
